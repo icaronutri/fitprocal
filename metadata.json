@@ -1,0 +1,7 @@
+{
+  "name": "FitTracker Pro",
+  "description": "Plataforma completa de avaliação física e planejamento nutricional para profissionais de saúde e fitness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
